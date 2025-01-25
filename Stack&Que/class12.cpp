@@ -70,7 +70,9 @@ int main()
       st.push(20);
       st.push(20);
       st.push(20);
-      st.push(200);
+      st.push(20);
+      st.push(20);
+      st.push(20);
       int tops = st.Top();
       int size = st.Size();
 
