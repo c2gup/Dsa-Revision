@@ -25,7 +25,7 @@ class Queue {
       exit(1);
     }
     if (end == -1) {
-      start = 0;
+      start = 0; 
       end = 0;
     } else
       end = (end + 1) % maxSize;
